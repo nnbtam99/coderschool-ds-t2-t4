@@ -1,3 +1,7 @@
 # Coderschool-ds-mon-wed
 ## Home assigment submission for Coderschool Data science track of DevC Innovation Challenge 2019
-### Nguyễn Ngọc Băng Tâm 
+
+This repository consists of 2 sections:
+  - Data cleaning & EDA
+  - Model building using Machine learning
+  
